@@ -23,6 +23,7 @@ public class Lista1 {
         t1.numero = 111;
         tf1.numero = 222;
         c1.numero = 333;
+        s1.numero = 444;
         System.out.println("numero do telefone generico:" + t1.numero);
         System.out.println("numero do telefone fixo:" + tf1.numero);
         System.out.println("numero do celular:" + c1.numero);
